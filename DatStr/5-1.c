@@ -13,3 +13,12 @@ int recursive1(int n) {
         return (2* recursive1(n-1) +1);
     
 }
+
+// result :
+// 5
+// 4
+// 3
+// 2
+// 1
+// 0
+// 95
